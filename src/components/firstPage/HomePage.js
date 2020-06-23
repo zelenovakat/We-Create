@@ -10,7 +10,7 @@ const HomePage = () => {
         <CenterP>LOVE</CenterP>
       </DivImg>
       <TextDiv>
-        <h2>info</h2>
+        <h1>info</h1>
         <p>
           Till följd av Coronapandemin (Covid-19) har stora delar av
           näringslivet blivit negativt påverkade. Detta har resulterat i
