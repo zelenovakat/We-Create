@@ -53,11 +53,11 @@ const HomePage = () => {
         <h1>contact</h1>
         <ContactCristen>
           <h2>christian</h2>
-          <a href="">christian@wecreate</a>
+          <a href="mailto:christian@wecreate.se">christian@wecreate</a>
         </ContactCristen>
         <div>
           <h2>dan</h2>
-          <a href="">dan@wecreate</a>
+          <a href="mailto:dan@wecreate.se">dan@wecreate</a>
         </div>
       </TextDiv>
     </>
